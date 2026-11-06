@@ -1,0 +1,88 @@
+{
+  "aspect": {
+    "accuracy": 1.0,
+    "macro_f1": 1.0,
+    "report": {
+      "Battery": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 12.0
+      },
+      "Build Quality": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 12.0
+      },
+      "Camera": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 12.0
+      },
+      "Price": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 13.0
+      },
+      "Shipping": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 12.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 61.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 61.0
+      }
+    }
+  },
+  "sentiment": {
+    "accuracy": 0.9836065573770492,
+    "macro_f1": 0.9837010534684953,
+    "report": {
+      "Negative": {
+        "precision": 1.0,
+        "recall": 0.95,
+        "f1-score": 0.9743589743589743,
+        "support": 20.0
+      },
+      "Neutral": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 20.0
+      },
+      "Positive": {
+        "precision": 0.9545454545454546,
+        "recall": 1.0,
+        "f1-score": 0.9767441860465116,
+        "support": 21.0
+      },
+      "accuracy": 0.9836065573770492,
+      "macro avg": {
+        "precision": 0.9848484848484849,
+        "recall": 0.9833333333333334,
+        "f1-score": 0.9837010534684953,
+        "support": 61.0
+      },
+      "weighted avg": {
+        "precision": 0.9843517138599106,
+        "recall": 0.9836065573770492,
+        "f1-score": 0.9835870064615776,
+        "support": 61.0
+      }
+    }
+  }
+}
